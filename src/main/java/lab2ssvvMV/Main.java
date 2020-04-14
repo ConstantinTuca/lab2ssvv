@@ -1,10 +1,10 @@
+package lab2ssvvMV;
 
-
-import console.*;
-import domain.*;
-import repository.*;
-import service.*;
-import validation.*;
+import lab2ssvvMV.console.*;
+import lab2ssvvMV.domain.*;
+import lab2ssvvMV.repository.*;
+import lab2ssvvMV.service.*;
+import lab2ssvvMV.validation.*;
 
 public class Main {
     public static void main(String[] args) {
